@@ -3,7 +3,7 @@
 ## Description
 
     -I did this project to refactor the code of an existing website, but not change how it works
-    
+
     - My motivation was to make the site more accesible, and optimize it for search engines
 
     - I condensed the stylehseet to make the code more effecient, I altered the language to change the non-semantic elements into semantic elements, I added accessibility options to the images,
@@ -12,6 +12,8 @@
     - I learned more about the difference between semantic and non-semantic elements, and how to write html and css more efficiently.
 
 ## Installation
+
+    -Link to deployed website: https://luwylbab.github.io/Week-1-Challenge/
 
     - Get SSH key from https://github.com/Luwylbab/Week-1-Challenge
 
